@@ -1,0 +1,1 @@
+friends = ["ali" , "ahmad" , "mujeeb" , 123 , 23.4,False]
